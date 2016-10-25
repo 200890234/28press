@@ -1,0 +1,4 @@
+http://localhost/time/gameluck.php?key=KG_go28
+http://localhost/time/gamehappy.php?key=KG_go16
+http://localhost/time/gamejoyous.php?key=KG_go11--
+http://localhost/time/userstg.php?key=KG_sw--
